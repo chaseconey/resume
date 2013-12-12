@@ -15,3 +15,5 @@ Trying to standardize my resume across formats and make it easier to make change
 
 * [MacTex](http://tug.org/mactex/) - Full featured latex toolkit
 * [res.cls](http://www.math.nyu.edu/student_resources/res.cls) - Latex class used for creating beautiful resumes
+* [Resume Templates](http://www.rpi.edu/dept/arc/training/latex/resumes/)
+* [Helpful Blogpost](http://maxburstein.com/blog/creating-resume-using-latex/)
